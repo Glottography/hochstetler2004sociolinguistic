@@ -1,0 +1,16 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+ampa1238,Ampari Dogon,,14.15,-3.55,ampa1238,,1,language,Dogon,languages
+bang1363,Bangime,,14.8116,-3.77092,bang1363,,3,language,,languages
+bond1248,Najamba-Kindige,,14.9066,-3.32636,bond1248,,2,language,Dogon,languages
+dogu1235,Dogul Dom Dogon,,14.5872,-3.56855,dogu1235,,4,language,Dogon,languages
+donn1239,Donno So Dogon,,14.34019,-3.51468,donn1239,,5,language,Dogon,languages
+jams1239,Jamsay Dogon,,14.1794,-2.57999,jams1239,,7,language,Dogon,languages
+momb1254,Mombo Dogon,,14.376155,-3.664799,momb1254,,9,language,Dogon,languages
+nang1261,Nanga,,14.49,-3.02,nang1261,,10,language,Dogon,languages
+tebu1239,Tebul Ure Dogon,,14.66,-3.1,tebu1239,,11,language,Dogon,languages
+tene1248,Tengou-Togo Dogon,,14.0675,-3.37158,tene1248,,12 13,language,Dogon,languages
+tomm1242,Tommo So Dogon,,14.756,-3.28,tomm1242,,14,language,Dogon,languages
+tomo1243,Tomo Kan Dogon,,13.6331,-3.82228,tomo1243,,15,language,Dogon,languages
+toro1252,Toro So Dogon,,14.40749,-3.10006,toro1252,,16,language,Dogon,languages
+toro1253,Toro Tegu Dogon,,15.0644,-2.22427,toro1253,,17,language,Dogon,languages
+dogo1299,Dogon,,,,dogo1299,,1 2 4 5 7 9 10 11 12 13 14 15 16 17,family,,families

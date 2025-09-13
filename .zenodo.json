@@ -1,0 +1,23 @@
+{
+    "creators": [
+        {
+            "name": "The Glottography Consortium"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "glottography"
+        }
+    ],
+    "title": "Glottography dataset derived from Hochstetler et al. 2004 \"Sociolinguistic survey of the Dogon language area\"",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Hochstetler, J Lee &amp; Evelin IK Durieux Jude A and Durieux-Boon. 2004. Sociolinguistic survey of the Dogon language area. SIL International. Citeseer.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
