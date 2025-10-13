@@ -1,4 +1,7 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+bond1252,Bondum Dom,,,,bond1252,,2,dialect,Dogon,dialects
+teng1266,Tengu Kan,,,,teng1266,,12,dialect,Dogon,dialects
+togo1254,Togo Kan,,,,togo1254,,13,dialect,Dogon,dialects
 ampa1238,Ampari Dogon,,14.15,-3.55,ampa1238,,1,language,Dogon,languages
 bang1363,Bangime,,14.8116,-3.77092,bang1363,,3,language,,languages
 bond1248,Najamba-Kindige,,14.9066,-3.32636,bond1248,,2,language,Dogon,languages
