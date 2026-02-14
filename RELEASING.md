@@ -50,3 +50,14 @@ cldfbench geojson.glottolog_distance cldf --format pipe
 | tomo1243 | 0.00 | True | 1 |
 | toro1252 | 0.00 | True | 1 |
 | toro1253 | 0.00 | False | 1 |
+
+
+## Release
+
+Commit and push all changes.
+
+Run
+```
+cldfbench glottography.release cldfbench_hochstetler2004sociolinguistic.py vX.Y
+```
+and follow the instructions given in the output of the command.

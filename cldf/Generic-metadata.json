@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/hochstetler2004sociolinguistic",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.1",
+            "dc:created": "v1.0.1-1-g7285112",
             "dc:title": "Repository"
         },
         {
