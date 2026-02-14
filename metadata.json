@@ -4,5 +4,6 @@
     "description": "The dataset provides contemporary ranges for Dogon languages as reported in Hochstetler et al. 2004.",
     "license": "CC-BY-4.0",
     "url": null,
+    "zenodo_concept_doi": "10.5281/zenodo.17340570",
     "citation": "Hochstetler, J Lee & Evelin IK Durieux Jude A and Durieux-Boon. 2004. Sociolinguistic survey of the Dogon language area. SIL International. Citeseer."
 }
